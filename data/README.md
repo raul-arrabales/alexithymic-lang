@@ -1,6 +1,6 @@
 ## Datasets 
 
-**Prolexitim Original Dataset V2:**
+**Prolexitim Original Dataset V2 (Prolexitim_v2.csv):**
 
 - **Code:** Anonymous unique code of each user. 
 - **TAS20:** TAS-20 global score.
@@ -11,7 +11,7 @@
 - **Age:**: Participant's age. 
 - **Card:**: TAT card used as visual stimulus for the narrative. 
 
-**Manually Annotated Variables:**
+**Manually Annotated Variables ():**
 
 **Text Preprocessing Dataset Variables:**
 - **dfsd:** sdfsdf.
