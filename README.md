@@ -14,7 +14,7 @@ The main information provided by the original dataset consists of rows represent
 - Identification of a visual stimulus (an ambiguous picture taken from the Thematic Apperception Test (TAT) card set). 
 - The original Spanish text corresponding to the narrative reported by the participant when presented with the visual stimulus.
 
-The specific description of the variables represented in the CSV files can be found in data folder's (readme)[https://github.com/raul-arrabales/alexithymic-lang/blob/master/data/README.md].
+The specific description of the variables represented in the CSV files can be found in [data folder's readme](https://github.com/raul-arrabales/alexithymic-lang/blob/master/data/README.md).
 Note that multiple features have been obtained from the original documents (original raw text field) and included as additional columns in tabular dataset files. 
 
 ### NLP folder
