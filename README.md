@@ -1,4 +1,4 @@
-# alexithymic-lang
+# The Alexithymic Language Project
 ## A Psicobōtica Labs research project on discovering patterns in alexithymic discourse.
 Raúl Arrabales Moreno (raul@psicobotica.com) / Sept. 2020 / Psicobōtica Labs.
 <hr>
