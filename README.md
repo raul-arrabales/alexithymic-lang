@@ -2,6 +2,7 @@
 ## A Psicobōtica Labs research project on discovering patterns in alexithymic discourse.
 Raúl Arrabales Moreno (raul@psicobotica.com) / Sept. 2020 / Psicobōtica Labs.
 
+**Abstract:**
 1. We asked adult participants to describe what they see in several, rather ambiguous, visual stimuli. 
 2. We estimated the degree of alexithymia (difficulty to identify emotions) of the same participants using a standarized test. 
 3. In this project, we analyse the narratives provided by the participants, looking for specific patterns in those with the highest degree of alexithymia. 
@@ -30,5 +31,13 @@ The specific description of the variables represented in the CSV files can be fo
 Note that multiple features have been obtained from the original documents (original raw text field) and included as additional columns in tabular dataset files. 
 
 ### NLP folder
+This folder contains the interactive notebooks (ipynb) used for data analysis: 
+- Preprocessing.ipynb: prolexitim dataset exploration, class variable definition and standard NLP processing (tokenization, stemming, POS, NER, DEP, etc.). 
+- Features.ipynb: standard natural language feature engineering (counts, lengths, frequencies, diversity scores, etc.). 
+- Embeddings_USEM.ipynb: latent space feature engineering (embeddings) using Google's (Universal Sentence Encoder - Multilingual Large 3)[https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3].
+- Embeddings_S3B.ipynb: latent space featyre engineering (embeddings) using Spanish 3B Word2Vec Embedding [https://github.com/aitoralmeida/spanish_word2vec].
 
 ### Models folder 
+This folder contains both pre-trained models from third party contributors and models trained with our own data. 
+- sdfs.
+
