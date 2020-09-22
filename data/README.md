@@ -35,10 +35,46 @@
 - **NER:** Named Entity Recognition (NER) tagging (list of pairs (word, NER tag)).
 - **DEP:** Lexical and dependency parsing tags (list of tuples ((word, POS tag), DEP tag, (word, POS tag))).
 
+**Language Feature Engineering Variables (Prolexitim_v2_features.csv):**
+- **Chars**: Number of characters in the Text.
+- **avgWL**: Average word length in the Text.
+- **avgSL**: Average sentence length in the Text.
+- **Pun_Count**: Number of punctuation signs in the Text.
+- **Stop_Count**: Number of stop words in the Text.
+- **Tittle_Count**: Number of words starting with a capital letter in the Text.
+- **Upper_Count**: Number of capitalized chars in the Text.
+- **VERB_Count**: Number of verbs in the Text.
+- **NOUN_Count**: Number of nouns in the Text.
+- **SYM_Count**: Number of symbols in the Text.
+- **ADV_Count**: Number of adverbs in the Text.
+- **PUNCT_Count**: Number of punctuation in the Text.
+- **INTJ_Count**: Number of interjections in the Text.
+- **CCONJ_Count**: Number of coordination conjunctions in the Text.
+- **ADJ_Count**: Number of adjectives in the Text.
+- **AUX_Count**: Number of auxiliaries in the Text.
+- **DET_Count**: Number of determiners in the Text.
+- **SCONJ_Count**: Number of subordinating conjunctions in the Text.
+- **PRON_Count**: Number of pronouns in the Text.
+- **NUM_Count**: Number of numerals in the Text.
+- **PROPN_Count**: Number of propper nouns in the Text.
+- **ADP_Count**: Number of adpositions in the Text.
+- **VERB_Ratio**: Proportion of verbs in the Text.
+- **NOUN_Ratio**: Proportion of nouns in the Text.
+- **SYM_Ratio**: Proportion of symbols in the Text.
+- **ADV_Ratio**:  Proportion of adverbs in the Text.
+- **PUNCT_Ratio**: Proportion of punctuation in the Text.
+- **INTJ_Ratio**: Proportion of interjections in the Text.
+- **CCONJ_Ratio**: Proportion of coordination conjunctions in the Text.
+- **ADJ_Ratio**: Proportion of adjectives in the Text.
+- **AUX_Ratio**: Proportion of auxiliaries in the Text.
+- **DET_Ratio**: Proportion of determiners in the Text.
+- **SCONJ_Ratio**: Proportion of subordinating conjunctions in the Text.
+- **PRON_Ratio**: Proportion of pronouns in the Text.
+- **NUM_Ratio**: Proportion of numerals in the Text.
+- **PROPN_Ratio**: Proportion of propper nouns in the Text.
+- **ADP_Ratio**: Proportion of adpositions in the Text.
 
 
-**Language Feature Engineering Variables:**
-- **sdfs**: sdfsdf.
 
 **Latent Space (embeddings) Variables:**
 - **dfs**: sdfsd.
