@@ -41,6 +41,6 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 This folder contains both pre-trained models from third party contributors and models trained with our own data. 
 - Stanford NER tagger model - Spanish. [Stanford Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.html).
 - Stanford POS tagger model - Spanish. [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml).
-- Other Stanford CoreNLP models. [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
+- Other Stanford CoreNLP models (Spanish). [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
 
 
