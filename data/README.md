@@ -76,9 +76,7 @@
 - **TTR**: Type Token Ratio. Total number of unique word types used in the text divided by the total number of words.
 - **HTR**: Hapax legomena/Token ratio. The number of words that occur only once divided by the number of total words.
 
-**Latent Space (embeddings) Variables:**
-- **dfs**: sdfsd.
-
-
+**Latent Space (embeddings) Variables (Prolexitim_v2_features-embed-usem.csv):**
+- **Embed_USEM**: 512 dimensions embedding calculated with Google Universal Sentence Enconder - Multilingual Large 3.
 
 
