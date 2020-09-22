@@ -5,6 +5,7 @@ Raúl Arrabales Moreno (raul@psicobotica.com) / Sept. 2020 / Psicobōtica Labs.
 Most of the code is also designed to serve as educational resource for junior data scientists, and it's being used at different introductory courses on Natural Language Processing (NLP) and Natural Language Understanding (NLU). 
 <hr>
 **Context information:**
+
 - [What is alexithymia](https://www.psicobotica.com/en/2020/06/08/alexithymia-when-i-dont-realize-how-i-feel/).
 - [Data collection via citizen science projects](https://www.psicobotica.com/en/2020/06/11/get-involved-in-our-research-projects/).
 - [Prolexitim NLP](https://psicobotica.com/prolexitim/nlp/index.html). The tool used to present the visual stimuli. 
