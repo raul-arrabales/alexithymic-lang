@@ -34,10 +34,13 @@ Note that multiple features have been obtained from the original documents (orig
 This folder contains the interactive notebooks (ipynb) used for data analysis: 
 - **Preprocessing.ipynb**: prolexitim dataset exploration, class variable definition and standard NLP processing (tokenization, stemming, POS, NER, DEP, etc.). 
 - **Features.ipynb**: standard natural language feature engineering (counts, lengths, frequencies, diversity scores, etc.). 
-- **Embeddings_USEM.ipynb**: latent space feature engineering (embeddings) using Google's [Universal Sentence Encoder - Multilingual Large 3](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3).
+- **Embeddings_USEM.ipynb**: latent space feature engineering (embeddings) using Google's [Universal Sentence Encoder - Multilingual L3](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3).
 - **Embeddings_S3B.ipynb**: latent space featyre engineering (embeddings) using [Spanish 3B Word2Vec Embedding](https://github.com/aitoralmeida/spanish_word2vec).
 
 ### Models folder 
 This folder contains both pre-trained models from third party contributors and models trained with our own data. 
-- sdfs.
+- Stanford NER tagger model - Spanish. [Stanford Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.html).
+- Stanford POS tagger model - Spanish. [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml).
+- Other Stanford CoreNLP models. [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
+
 
