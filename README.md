@@ -4,7 +4,7 @@ Raúl Arrabales Moreno (raul@psicobotica.com) / Sept. 2020 / Psicobōtica Labs.
 
 1. We asked adult participants to describe what they see in several, rather ambiguous, visual stimuli. 
 2. We estimated the degree of alexithymia (difficulty to identify emotions) for the same participants using a standarized test. 
-3. We analyse the narratives provided by the participants, looking for specific patterns in those with high degree of alexithymia. 
+3. We analyse the narratives provided by the participants, looking for specific patterns in those with the highest degree of alexithymia. 
 
 <hr>
 Most of the code is also designed to serve as educational resource for junior data scientists, and it's being used at different introductory courses on Natural Language Processing (NLP) and Natural Language Understanding (NLU). 
