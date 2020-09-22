@@ -73,8 +73,8 @@
 - **NUM_Ratio**: Proportion of numerals in the Text.
 - **PROPN_Ratio**: Proportion of propper nouns in the Text.
 - **ADP_Ratio**: Proportion of adpositions in the Text.
-
-
+- **TTR**: Type Token Ratio. Total number of unique word types used in the text divided by the total number of words.
+- **HTR**: Hapax legomena/Token ratio. The number of words that occur only once divided by the number of total words.
 
 **Latent Space (embeddings) Variables:**
 - **dfs**: sdfsd.
