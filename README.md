@@ -52,6 +52,10 @@ The main information provided by the original dataset consists of rows represent
 The specific description of the variables represented in the CSV files can be found in [data folder's readme](https://github.com/raul-arrabales/alexithymic-lang/blob/master/data/README.md).
 Note that multiple features have been obtained from the original documents (original raw text field) and included as additional columns in tabular dataset files. 
 
+### Lexicon folder
+This folder contains Spanish lexicon datasets:
+- Sentiment analysis lexicons.
+
 ### NLP folder
 This folder contains the interactive notebooks (ipynb) used for data analysis: 
 - **Preprocessing.ipynb**: prolexitim dataset exploration, class variable definition and standard NLP processing (tokenization, stemming, POS, NER, DEP, etc.). 
