@@ -8,7 +8,9 @@ Raúl Arrabales Moreno (raul@psicobotica.com) / Sept. 2020 / Psicobōtica Labs.
 3. In this project, we analyse the narratives provided by the participants, looking for specific patterns in those with the highest degree of alexithymia. 
 
 <hr>
+
 Most of the code is **also designed to serve as educational resource for junior data scientists**, and it's being used at different introductory courses on Natural Language Processing (NLP) and Natural Language Understanding (NLU). 
+
 <hr>
 
 **Context information:**
