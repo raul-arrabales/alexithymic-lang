@@ -60,7 +60,7 @@ This folder contains Spanish lexicon datasets:
 This folder contains the interactive notebooks (ipynb) used for data analysis: 
 - **1-Preprocessing.ipynb**: prolexitim dataset exploration, class variable definition and standard NLP processing (tokenization, stemming, lemmatization, POS, NER, DEP, etc.). 
 - **1b-SA-Lexicons.ipynb**: preparation of Sentiment Analysis lexicons in Spanish. 
-- **Features.ipynb**: standard natural language feature engineering (counts, lengths, frequencies, diversity scores, etc.). 
+- **2-Features.ipynb**: standard natural language feature engineering (counts, lengths, frequencies, diversity scores, etc.). 
 - **Embeddings_USEM.ipynb**: latent space feature engineering (embeddings) using Google's [Universal Sentence Encoder - Multilingual L3](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3).
 - **Embeddings_S3B.ipynb**: latent space feature engineering (embeddings) using [Spanish 3B Word2Vec Embedding](https://github.com/aitoralmeida/spanish_word2vec).
 
