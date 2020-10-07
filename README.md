@@ -70,5 +70,7 @@ This folder contains both pre-trained models from third party contributors and m
 - Stanford NER tagger model - Spanish. [Stanford Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.html).
 - Stanford POS tagger model - Spanish. [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml).
 - Other Stanford CoreNLP models (Spanish). [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
+- Word BoW Model. 
+- Stem BoW Model. 
 
 
