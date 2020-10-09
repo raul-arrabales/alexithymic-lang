@@ -32,11 +32,13 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 6. NLP Pre-processing: NER (Named Entity Recognition) Tagging. 
 - 7. NLP Pre-processing: DEP (syntactic Dependencies) Tagging.
 - 8. NLP Frequency-Based Feature Engineering: frequencies, diversity scores.
-- 9. NLP Bag of Words (BoW) Frequency Space Feature Engineering. 
-- 10. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
-- 11. NLP Processing: Topic Detection (LDA). 
-- 12. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
-- 13. NLP Processing: 
+- 9. NLP Bag of Words (BoW) Vector Space Feature Engineering. 
+- 10. NLP TF/IDF Vector Space Feature Engineering. 
+- 11. NLP N-Grams models and text generation. 
+- 12. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
+- 13. NLP Processing: Topic Detection (LDA). 
+- 14. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
+- 15. NLP Processing: 
 
 
 <hr>
