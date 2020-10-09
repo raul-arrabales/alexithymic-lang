@@ -66,7 +66,7 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 - **2_Features.ipynb**: standard natural language feature engineering (counts, lengths, frequencies, diversity scores, etc.). 
 - **3_BoW.ipynb**: words and stems Bag of Word models. BoW Vector space model dimensionality reduction (PCA and t-SNE).
 - **3b_TF-IDF.ipynb**: words and stems TF/IDF models. TF/IDF Vector space model dimensionality reduction (PCA and t-SNE).
-- **3c_N-Grams.ipynb**: chars and words N-Gram models. 
+- **3c_N-Grams.ipynb**: chars and words N-Gram models. N-Gram based text generation. 
 - **Embeddings_USEM.ipynb**: latent space feature engineering (embeddings) using Google's [Universal Sentence Encoder - Multilingual L3](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3).
 - **Embeddings_S3B.ipynb**: latent space feature engineering (embeddings) using [Spanish 3B Word2Vec Embedding](https://github.com/aitoralmeida/spanish_word2vec).
 
