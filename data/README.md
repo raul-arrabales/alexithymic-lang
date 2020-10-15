@@ -35,7 +35,7 @@
 - **NER:** Named Entity Recognition (NER) tagging (list of pairs (word, NER tag)).
 - **DEP:** Lexical and dependency parsing tags (list of tuples ((word, POS tag), DEP tag, (word, POS tag))).
 
-**Language Feature Engineering Variables (Prolexitim_v2_features.csv):**
+**Language Feature Engineering Variables (Prolexitim_v2_features-2.csv):**
 - **Chars**: Number of characters in the Text.
 - **avgWL**: Average word length in the Text.
 - **avgSL**: Average sentence length in the Text.
@@ -75,6 +75,23 @@
 - **ADP_Ratio**: Proportion of adpositions in the Text.
 - **TTR**: Type Token Ratio. Total number of unique word types used in the text divided by the total number of words.
 - **HTR**: Hapax legomena/Token ratio. The number of words that occur only once divided by the number of total words.
+
+**Language Feature Engineering Variables - BoW (Bag of Words) (Prolexitim_v2_features-3.csv):**
+- **BoW_PCA_1**: Principal Component 1 BoW Vector.
+- **BoW_PCA_2**: Principal Component 2 BoW Vector.
+- **BoW_PCA_3**: Principal Component 3 BoW Vector.
+- **TFIDF_PCA_1**: Principal Component 1 TF/IDF Vector.
+- **TFIDF_PCA_2**: Principal Component 2 TF/IDF Vector.
+- **TFIDF_PCA_3**: Principal Component 3 TF/IDF Vector.
+
+**Lexical Semantics Analysis (Prolexitim_v2_features-4.csv):**
+- **Verb_List**: List of verbs in the text in order of appearance.
+- **Noun_List**: List of nouns in the text in order of appearance.
+- **Adjective_List**: List of adjectives in the text in order of appearance.
+- **Subord_List**: List of subordinate conjunctions in the text in order of appearance.
+- **Adverb_List**: List of adverbs in the text in order of appearance.
+- **Aux_List**: List of auxiliary verbs in the text in order of appearance.
+
 
 **Latent Space (embeddings) Variables (Prolexitim_v2_features-embed-XXX.csv):**
 - **Embed_USEM**: 512 dimensions embedding calculated with Google Universal Sentence Enconder - Multilingual Large 3.
