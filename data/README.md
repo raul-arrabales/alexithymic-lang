@@ -92,5 +92,116 @@
 - **Adverb_List**: List of adverbs in the text in order of appearance.
 - **Aux_List**: List of auxiliary verbs in the text in order of appearance.
 
+**Personality Analysis (Prolexitim_v2_features-5.csv):**
+- **IBM Personality Insights variables**: 95 variables related to personality traits, needs, values and preferences:
+- 'big5_openness'
+-- 'facet_adventurousness'
+-- 'facet_artistic_interests'
+-- 'facet_emotionality'
+-- 'facet_imagination'
+-- 'facet_intellect'
+-- 'facet_liberalism'
+- 'big5_conscientiousness'
+-- 'facet_achievement_striving'
+-- 'facet_cautiousness'
+-- 'facet_dutifulness'
+-- 'facet_orderliness'
+-- 'facet_self_discipline'
+-- 'facet_self_efficacy'
+- 'big5_extraversion'
+-- 'facet_activity_level'
+-- 'facet_assertiveness'
+-- 'facet_cheerfulness'
+-- 'facet_excitement_seeking'
+-- 'facet_friendliness'
+-- 'facet_gregariousness'
+- 'big5_agreeableness'
+-- 'facet_altruism',
+-- 'facet_cooperation'
+-- 'facet_modesty'
+-- 'facet_morality'
+-- 'facet_sympathy'
+-- 'facet_trust'
+- 'big5_neuroticism'
+-- 'facet_anger'
+-- 'facet_anxiety'
+-- 'facet_depression'
+-- 'facet_immoderation'
+-- 'facet_self_consciousness'
+-- 'facet_vulnerability'
+- Needs:
+-- 'need_challenge'
+-- 'need_closeness'
+-- 'need_curiosity'
+-- 'need_excitement'
+-- 'need_harmony'
+-- 'need_ideal'
+-- 'need_liberty'
+-- 'need_love'
+-- 'need_practicality'
+-- 'need_self_expression'
+-- 'need_stability'
+-- 'need_structure',
+- Values:
+-- 'value_conservation'
+-- 'value_openness_to_change'
+-- 'value_hedonism'
+-- 'value_self_enhancement'
+-- 'value_self_transcendence'
+- Consumption preferences:
+-- 'consumption_preferences_automobile_ownership_cost'
+-- 'consumption_preferences_automobile_safety'
+-- 'consumption_preferences_clothes_quality'
+-- 'consumption_preferences_clothes_style'
+-- 'consumption_preferences_clothes_comfort'
+-- 'consumption_preferences_influence_brand_name'
+-- 'consumption_preferences_influence_utility'
+-- 'consumption_preferences_influence_online_ads'
+-- 'consumption_preferences_influence_social_media'
+-- 'consumption_preferences_influence_family_members'
+-- 'consumption_preferences_spur_of_moment'
+-- 'consumption_preferences_credit_card_payment'
+-- 'consumption_preferences_health_and_activity'
+-- 'consumption_preferences_eat_out'
+-- 'consumption_preferences_gym_membership'
+-- 'consumption_preferences_outdoor'
+-- 'consumption_preferences_concerned_environment'
+-- 'consumption_preferences_start_business'
+-- 'consumption_preferences_movie_romance'
+-- 'consumption_preferences_movie_adventure'
+-- 'consumption_preferences_movie_horror'
+-- 'consumption_preferences_movie_musical'
+-- 'consumption_preferences_movie_historical'
+-- 'consumption_preferences_movie_science_fiction'
+-- 'consumption_preferences_movie_war'
+-- 'consumption_preferences_movie_drama'
+-- 'consumption_preferences_movie_action'
+-- 'consumption_preferences_movie_documentary'
+-- 'consumption_preferences_music_rap'
+-- 'consumption_preferences_music_country'
+-- 'consumption_preferences_music_r_b'
+-- 'consumption_preferences_music_hip_hop'
+-- 'consumption_preferences_music_live_event'
+-- 'consumption_preferences_music_playing'
+-- 'consumption_preferences_music_latin'
+-- 'consumption_preferences_music_rock'
+-- 'consumption_preferences_music_classical'
+-- 'consumption_preferences_read_frequency'
+-- 'consumption_preferences_books_entertainment_magazines'
+-- 'consumption_preferences_books_non_fiction'
+-- 'consumption_preferences_books_financial_investing'
+-- 'consumption_preferences_books_autobiographies'
+-- 'consumption_preferences_volunteer'
+
+**Sentiment Analysis (Prolexitim_v2_features-6.csv):**
+- **MSP_Words**: Multilingual Sentiment Project - Lexicon-based pos/neg words sentiment score.
+- **MSP_Stems**: Multilingual Sentiment Project - Lexicon-based pos/neg snowball stems sentiment score.
+- **AFINN_Words_Pol**: AFINN-ES - Lexicon-based words polarity score.
+- **AFINN_Stems_Pol**: AFINN-ES - Lexicon-based snowball stems polarity score.
+- **AFINN_Words_Int**: AFINN-ES - Lexicon-based words mean intensity score.
+- **AFINN_Stems_Int**: AFINN-ES - Lexicon-based snowball stems mean intensity score.
+- **AFINN_Words_Max**: AFINN-ES - Lexicon-based words max intensity score.
+- **AFINN_Stems_Max**: AFINN-ES - Lexicon-based snowball stems max intensity score.
+- **Watson_Sent**: IBM Watson Natural Language Understanding API - sentiment score.
 
 
