@@ -37,11 +37,12 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 11. NLP N-Grams models and text generation. 
 - 12. NLP PoS tokens counts. Most frequent verbs, nouns, adjectives, etc. per class.
 - 13. NLU Inferring personality traits, needs, values and preferences. 
-- 14. NLU Sentiment analysis (polarity, intensity, etc.). 
-- 15. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
-- 16. NLP Processing: Topic Detection (LDA). 
-- 17. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
-- 18. NLP Processing: 
+- 14. NLU Sentiment analysis (polarity, intensity, etc.).
+- 15. NLP Topic Detection with Latent Semactic Analysis (LSA). 
+- X. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
+- X. NLP Processing: Topic Detection (LDA). 
+- X. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
+- X. NLP Processing: 
 
 
 <hr>
@@ -73,6 +74,7 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 - **4_Lexicosemantics.ipynb**: PoS frequency in different classes. Semantic analysis. 
 - **5_Personality.ipynb**: Use of the Personality Insights API (IBM Cloud) to annotate text with personality variables. 
 - **6_Sentiment.ipynb**: Sentiment analysis using different techniques (lexicon-based, third-party API, etc.). 
+- **7_SemanticAnalysis.ipynb**: Latent Semantic Analysis LSA (topic detection). 
 - **Embeddings_USEM.ipynb**: latent space feature engineering (embeddings) using Google's [Universal Sentence Encoder - Multilingual L3](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3).
 - **Embeddings_S3B.ipynb**: latent space feature engineering (embeddings) using [Spanish 3B Word2Vec Embedding](https://github.com/aitoralmeida/spanish_word2vec).
 
