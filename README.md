@@ -38,7 +38,7 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 12. NLP PoS tokens counts. Most frequent verbs, nouns, adjectives, etc. per class.
 - 13. NLU Inferring personality traits, needs, values and preferences. 
 - 14. NLU Sentiment analysis (polarity, intensity, etc.).
-- 15. NLP Topic Detection with Latent Semactic Analysis (LSA). 
+- 15. NLP Topic Detection with Latent Semantic Analysis (LSA). 
 - X. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
 - X. NLP Processing: Topic Detection (LDA). 
 - X. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
