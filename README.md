@@ -47,6 +47,10 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 
 <hr>
 
+### HTML folder
+This folder contains HTML versions of the iPython notebooks (Jupyter exported) for quick inspection and visualization.
+
+
 ### Data folder
 This folder contains the original dataset obtained from the Prolexitim project as well as newly generated datasets with additional processing and features.
 
