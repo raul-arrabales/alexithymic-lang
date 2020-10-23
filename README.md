@@ -26,19 +26,21 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 0. Research design and problem modeling. 
 - 1. Loading dataset and exploratory analysis. 
 - 2. Variables transformation according to the research design. 
-- 3. NLP Pre-processing: Tokenization. 
-- 4. NLP Pre-processing: Stemming. 
-- 5. NLP Pre-processing: PoS (Part of Speech) Tagging. 
-- 6. NLP Pre-processing: NER (Named Entity Recognition) Tagging. 
-- 7. NLP Pre-processing: DEP (syntactic Dependencies) Tagging.
-- 8. NLP Frequency-Based Feature Engineering: frequencies, diversity scores.
-- 9. NLP Bag of Words (BoW) Vector Space Feature Engineering. 
-- 10. NLP TF/IDF Vector Space Feature Engineering. 
-- 11. NLP N-Grams models and text generation. 
-- 12. NLP PoS tokens counts. Most frequent verbs, nouns, adjectives, etc. per class.
-- 13. NLU Inferring personality traits, needs, values and preferences. 
-- 14. NLU Sentiment analysis (polarity, intensity, etc.).
-- 15. NLP Topic Detection with Latent Semantic Analysis (LSA). 
+- 3. Pre-processing: Tokenization. 
+- 4. Pre-processing: Stemming. 
+- 5. Pre-processing: PoS (Part of Speech) Tagging. 
+- 6. Pre-processing: NER (Named Entity Recognition) Tagging. 
+- 7. Pre-processing: DEP (syntactic Dependencies) Tagging.
+- 8. Frequency-Based Feature Engineering: frequencies, diversity scores.
+- 9. Bag of Words (BoW) Vector Space Feature Engineering. 
+- 10. TF/IDF Vector Space Feature Engineering. 
+- 11. N-Grams models and text generation. 
+- 12. PoS tokens counts. Most frequent verbs, nouns, adjectives, etc. per class.
+- 13. Inferring personality traits, needs, values and preferences. 
+- 14. Sentiment analysis (polarity, intensity, etc.).
+- 15. Topic Detection with Latent Semantic Analysis (LSA). 
+- 16. Topic Detection with Latent Dirichlet Allocation (LDA). 
+- 17. Word2Vec embedding training using CBoW and Skip Gram. 
 - X. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
 - X. NLP Processing: Topic Detection (LDA). 
 - X. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
@@ -80,6 +82,7 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 - **6_Sentiment.ipynb**: Sentiment analysis using different techniques (lexicon-based, third-party API, etc.). 
 - **7_SemanticAnalysis.ipynb**: Latent Semantic Analysis LSA (topic detection). 
 - **8_LatentDirichletAllocation.ipynb**: Latent Dirichlet Allocation LDA (topic detection). 
+- **9_Word2Vec.ipynb**: Traning neural vector models with our dataset (CBoW and Skip Gram). 
 - **Embeddings_USEM.ipynb**: latent space feature engineering (embeddings) using Google's [Universal Sentence Encoder - Multilingual L3](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3).
 - **Embeddings_S3B.ipynb**: latent space feature engineering (embeddings) using [Spanish 3B Word2Vec Embedding](https://github.com/aitoralmeida/spanish_word2vec).
 
