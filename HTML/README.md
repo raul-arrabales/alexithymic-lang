@@ -11,6 +11,7 @@
 - [6_Sentiment](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/6_Sentiment.html)
 - [7_LatentSemantic](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/7_LatentSemantic.html)
 - [8_LatentDirichletAlloc](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/8_LatentDirichletAllocation.html)
+- [9_Word2Vec](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/9_Word2Vec.html)
 
 
 
