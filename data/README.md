@@ -205,9 +205,11 @@
 - **AFINN_Stems_Max**: AFINN-ES - Lexicon-based snowball stems max intensity score.
 - **Watson_Sent**: IBM Watson Natural Language Understanding API - sentiment score.
 
-**Topic Analysis - LDA (Prolexitim_v2_features-7.csv):**
+**Topic Analysis - LSA (Prolexitim_v2_features-7.csv):**
 - **LDA4_Umap2_0**: Latent Semantic Analysis for 4 topics - Dim 0 of 2D projection using UMAP.
 - **LDA4_Umap2_1**: Latent Semantic Analysis for 4 topics - Dim 1 of 2D projection using UMAP.
 
-
+**Topic Analysis - LDA (Prolexitim_v2_features-8.csv):**
+- **LDA10_Topic**: Latent Dirichlet Allocation for 10 topics - Topic ID.
+- **LDA4_Topic**: Latent Dirichlet Allocation for 4 topics - Topic ID.
 
