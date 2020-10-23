@@ -19,6 +19,10 @@
 - **stanford-ner.jar**: Stanford Spanish Named Entity Recognition model. 
 - **spanish.ancora.distsim.s512.crf.ser.gz**: Spanish data from the AnCora corpus.
 
+**Word2Vec models (trained with our dataset):**
+- **Word2Vex_CBOW_Prolex_v2**: Word2Vec embeddings trained using CBoW (bin and model formats). 
+- **Word2Vex_SGram_Prolex_v2**: Word2Vec embeddings trained using Skip Gram (bin and model formats). 
+
 **Latent Space (embeddings) Variables (Prolexitim_v2_features-embed-XXX.csv):**
 - **Embed_USEM**: 512 dimensions embedding calculated with Google Universal Sentence Enconder - Multilingual Large 3.
 - **Embed_3B_Mean**: 400 dimensions embedding calculated as the mean of all word vectors (Spanish 3B).
