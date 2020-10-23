@@ -79,6 +79,7 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 - **5_Personality.ipynb**: Use of the Personality Insights API (IBM Cloud) to annotate text with personality variables. 
 - **6_Sentiment.ipynb**: Sentiment analysis using different techniques (lexicon-based, third-party API, etc.). 
 - **7_SemanticAnalysis.ipynb**: Latent Semantic Analysis LSA (topic detection). 
+- **8_LatentDirichletAllocation.ipynb**: Latent Dirichlet Allocation LDA (topic detection). 
 - **Embeddings_USEM.ipynb**: latent space feature engineering (embeddings) using Google's [Universal Sentence Encoder - Multilingual L3](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3).
 - **Embeddings_S3B.ipynb**: latent space feature engineering (embeddings) using [Spanish 3B Word2Vec Embedding](https://github.com/aitoralmeida/spanish_word2vec).
 
