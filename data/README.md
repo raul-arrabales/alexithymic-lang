@@ -213,3 +213,10 @@
 - **LDA10_Topic**: Latent Dirichlet Allocation for 10 topics - Topic ID.
 - **LDA4_Topic**: Latent Dirichlet Allocation for 4 topics - Topic ID.
 
+**Embedding features - Word2Vec (Prolexitim_v2_features-9.csv):**
+- **WV_Verbs_Dist_Mean**: Mean distance between all verbs vectors in the document.
+- **WV_Verbs_Dist_Std**: Standard Deviation of the distance between all verbs vectors.
+- **WV_Adjs_Dist_Mean**: Mean distance between all adjective vectors in the document.
+- **WV_Adjs_Dist_Std**: Standard Deviation of the distance between all adjectives vectors.
+- **WV_Nouns_Dist_Mean**: Mean distance between all noun vectors in the document.
+- **WV_Nouns_Dist_Std**: Standard Deviation of the distance between all nouns vectors.
