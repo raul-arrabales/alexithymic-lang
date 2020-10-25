@@ -41,6 +41,7 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 15. Topic Detection with Latent Semantic Analysis (LSA). 
 - 16. Topic Detection with Latent Dirichlet Allocation (LDA). 
 - 17. Word2Vec embedding training using CBoW and Skip Gram. 
+- 18. Doc2Vec generation using a pre-trained Word2Vec model (Spanish 3B). 
 - X. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
 - X. NLP Processing: Topic Detection (LDA). 
 - X. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
@@ -93,10 +94,10 @@ This folder contains both pre-trained models from third party contributors and m
 - Other Stanford CoreNLP models (Spanish). [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
 - Word BoW Model. 
 - Stem BoW Model. 
-- Char-Based N-Gram (n=6) model for alexithymic discourse.
-- Char-Based N-Gram (n=6) model for non-alexithymic discourse.
-- Word-Based N-Gram (n=3, trigrams) model for alexithymic discourse.
-- Word-Based N-Gram (n=3, trigrams) model for non-alexithymic discourse.
+- Char-Based N-Gram (n=6) models.
+- Word-Based N-Gram (n=3, trigrams) models.
+- Word2Vec models. 
+- Doc2Vec models. 
 
 
 
