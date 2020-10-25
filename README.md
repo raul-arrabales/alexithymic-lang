@@ -60,6 +60,7 @@ The main information provided by the original dataset consists of rows represent
 
 The specific description of the variables represented in the CSV files can be found in [data folder's readme](https://github.com/raul-arrabales/alexithymic-lang/blob/master/data/README.md).
 Note that multiple features have been obtained from the original documents (original raw text field) and included as additional columns in tabular dataset files. 
+[Here is the description of all variables contained in generated datasets](https://github.com/raul-arrabales/alexithymic-lang/blob/master/data/README.md).
 
 ### Lexicon folder
 This folder contains Spanish lexicon datasets:
