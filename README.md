@@ -42,11 +42,6 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 16. Topic Detection with Latent Dirichlet Allocation (LDA). 
 - 17. Word2Vec embedding training using CBoW and Skip Gram. 
 - 18. Doc2Vec generation using a pre-trained Word2Vec model (Spanish 3B). 
-- X. NLP Latent Space Feature Engineering (embeddings): Word2Vec, Doc2Vec. 
-- X. NLP Processing: Topic Detection (LDA). 
-- X. NLP Processing: Sentiment Analysis (Lexicon-based, model-based). 
-- X. NLP Processing: 
-
 
 <hr>
 
