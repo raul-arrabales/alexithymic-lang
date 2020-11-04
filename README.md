@@ -43,6 +43,7 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 17. Word2Vec embedding training using CBoW and Skip Gram. 
 - 18. Doc2Vec generation using a pre-trained Word2Vec model (Spanish 3B). 
 - 19. Doc2Vec using a pre-trained sentence encoder.
+- 20. Using sentence vectors for classification.
 
 
 <hr>
@@ -85,6 +86,7 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 - **9_Word2Vec.ipynb**: Traning neural vector models with our dataset (CBoW and Skip Gram). 
 - **9b_Word2Vec_S3B.ipynb**: Using a pre-trained neural vector model, build Doc2Vec and other embedding features. 
 - **10_Embeddings_USEM.ipynb**: Doc2Vec using Google's Universal Sentence Encoder - Multilingual L3.
+- **10b_USEM_Check.ipynb**: Using encoded vectors for classification.
 
 ### Models folder 
 This folder contains both pre-trained models from third party contributors and models trained with our own data. 
