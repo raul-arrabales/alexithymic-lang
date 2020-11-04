@@ -28,7 +28,5 @@
 - **Prolexitim_v2_Doc2Vec-3B-mean-verbs**: Doc2Vec as mean vector of all verb vectors in document. 
 - **Prolexitim_v2_Doc2Vec-3B-mean-adjs**: Doc2Vec as mean vector of all adjective vectors in document. 
 - **Prolexitim_v2_Doc2Vec-3B-mean-nouns**: Doc2Vec as mean vector of all noun vectors in document. 
+- **Prolexitim_v2_features-embed-usem**: Doc2Vec from Google's Universal Sentence Encoder - Multil. L3. 
 
-**Latent Space (embeddings) Variables (Prolexitim_v2_features-embed-XXX.csv):**
-- **Embed_USEM**: 512 dimensions embedding calculated with Google Universal Sentence Enconder - Multilingual Large 3.
-- **Embed_3B_Mean**: 400 dimensions embedding calculated as the mean of all word vectors (Spanish 3B).
