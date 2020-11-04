@@ -13,7 +13,6 @@
 - [8_LatentDirichletAlloc](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/8_LatentDirichletAllocation.html)
 - [9_Word2Vec](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/9_Word2Vec.html)
 - [9b_Word2Vec_S3B](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/9b_Word2Vec_S3B.html)
-
-
+- [10_Embeddings_USEM.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/10_Embeddings_USEM.html)
 
 
