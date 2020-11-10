@@ -28,5 +28,6 @@
 - **Prolexitim_v2_Doc2Vec-3B-mean-verbs**: Doc2Vec as mean vector of all verb vectors in document. 
 - **Prolexitim_v2_Doc2Vec-3B-mean-adjs**: Doc2Vec as mean vector of all adjective vectors in document. 
 - **Prolexitim_v2_Doc2Vec-3B-mean-nouns**: Doc2Vec as mean vector of all noun vectors in document. 
-- **Prolexitim_v2_features-embed-usem**: Doc2Vec from Google's Universal Sentence Encoder - Multil. L3. 
+- **Prolexitim_v2_features-embed-usem**: Doc2Vec from Google's Universal Sentence Encoder - Multil. L3.
+- **Prolexitim_v2_MyWord2Vec.zip**: Word vectors corresponding to specific corpus lexicon (20 MB).
 
