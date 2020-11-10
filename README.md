@@ -85,6 +85,7 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 - **8_LatentDirichletAllocation.ipynb**: Latent Dirichlet Allocation LDA (topic detection). 
 - **9_Word2Vec.ipynb**: Traning neural vector models with our dataset (CBoW and Skip Gram). 
 - **9b_Word2Vec_S3B.ipynb**: Using a pre-trained neural vector model, build Doc2Vec and other embedding features. 
+- **9c_Word2Vec_S3B_ExportVecs.ipynb**: Exporting only those vectors corresponding to the lexicon in my corpus. 
 - **10_Embeddings_USEM.ipynb**: Doc2Vec using Google's Universal Sentence Encoder - Multilingual L3.
 - **10b_USEM_Check.ipynb**: Using encoded vectors for classification.
 
