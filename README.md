@@ -41,9 +41,10 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 15. Topic Detection with Latent Semantic Analysis (LSA). 
 - 16. Topic Detection with Latent Dirichlet Allocation (LDA). 
 - 17. Word2Vec embedding training using CBoW and Skip Gram. 
-- 18. Doc2Vec generation using a pre-trained Word2Vec model (Spanish 3B). 
-- 19. Doc2Vec using a pre-trained sentence encoder.
-- 20. Using sentence vectors for classification.
+- 18. Using word vectors for classification (feature vectors as word vector sequences). 
+- 19. Doc2Vec generation using a pre-trained Word2Vec model (Spanish 3B). 
+- 20. Doc2Vec using a pre-trained sentence encoder.
+- 21. Using sentence vectors for classification.
 
 
 <hr>
