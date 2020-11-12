@@ -16,3 +16,4 @@
 - [9c_Word2Vec_S3B_ExportVecs.html](http://htmlpreview.github.io/?https://raw.githubusercontent.com/raul-arrabales/alexithymic-lang/master/HTML/9c_Word2Vec_S3B_ExportVecs.html)
 - [10_Embeddings_USEM.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/10_Embeddings_USEM.html)
 - [10b_USEM_Check.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/10b_USEM_Check.html)
+- [11_BiLSTM.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/11_BiLSTM.html)
