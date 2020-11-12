@@ -31,3 +31,6 @@
 - **Prolexitim_v2_features-embed-usem**: Doc2Vec from Google's Universal Sentence Encoder - Multil. L3.
 - **Prolexitim_v2_MyWord2Vec.zip**: Word vectors corresponding to specific corpus lexicon (20 MB).
 
+**Classifiers (trained with our dataset):**
+- **biLSTM_modelv1.h5**: Keras serialized biLSTM model weights. 
+
