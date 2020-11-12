@@ -103,6 +103,7 @@ This folder contains both pre-trained models from third party contributors and m
 - Word-Based N-Gram (n=3, trigrams) models.
 - Word2Vec models. 
 - Doc2Vec models. 
+- Classifier models (biLSTM). 
 
 [Here is the list of all models](https://github.com/raul-arrabales/alexithymic-lang/blob/master/models/README.md).
 
