@@ -42,10 +42,11 @@ This project is intended to contain a fairly complete end to end pipeline, repre
 - 16. Topic Detection with Latent Dirichlet Allocation (LDA). 
 - 17. Word2Vec embedding training using CBoW and Skip Gram. 
 - 18. Using word vectors for classification (feature vectors as word vector sequences). 
-- 19. Using a bidirectional LSTM (biLSTM) for classification. 
-- 19. Doc2Vec generation using a pre-trained Word2Vec model (Spanish 3B). 
-- 20. Doc2Vec using a pre-trained sentence encoder.
-- 21. Using sentence vectors for classification.
+- 19. Using a bidirectional LSTM (biLSTM) for classification.
+- 20. Using an attention layer for explainability. 
+- 21. Doc2Vec generation using a pre-trained Word2Vec model (Spanish 3B). 
+- 22. Doc2Vec using a pre-trained sentence encoder.
+- 23. Using sentence vectors for classification.
 
 
 <hr>
@@ -91,6 +92,7 @@ This folder contains the interactive notebooks (ipynb) used for data analysis:
 - **10_Embeddings_USEM.ipynb**: Doc2Vec using Google's Universal Sentence Encoder - Multilingual L3.
 - **10b_USEM_Check.ipynb**: Using encoded vectors for classification.
 - **11_biLSTM.ipynb**: bidirectional LSTM model using S3B word embeddings for classification.
+- **11b_biLSTM_Attention.ipynb**: biLSTM model with attention layer and explainer.
 
 ### Models folder 
 This folder contains both pre-trained models from third party contributors and models trained with our own data. 
