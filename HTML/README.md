@@ -17,3 +17,5 @@
 - [10_Embeddings_USEM.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/10_Embeddings_USEM.html)
 - [10b_USEM_Check.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/10b_USEM_Check.html)
 - [11_BiLSTM.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/11_BiLSTM.html)
+- [11b_BiLSTM_Attention.html](http://htmlpreview.github.io/?https://github.com/raul-arrabales/alexithymic-lang/blob/master/HTML/11b_BiLSTM_Attention.html)
+
